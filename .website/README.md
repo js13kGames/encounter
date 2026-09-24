@@ -1,4 +1,6 @@
 ---
+genres:
+  - narrative
 post: https://github.com/IMG25522/4JS13K_2025/blob/main/Post-mortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
